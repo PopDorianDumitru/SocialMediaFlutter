@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23266414863",
+    "project_id": "shoutout-dcfef",
+    "storage_bucket": "shoutout-dcfef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23266414863:android:b44a3fa7dbff9e52a3ae7a",
+        "android_client_info": {
+          "package_name": "com.ShoutOut.Shout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23266414863-0esvqu7e5q16qmoibvjpltacv7vstvv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3YPF-WE6gT69ZVSVkT5bZ0TJeyNAI0KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23266414863-0esvqu7e5q16qmoibvjpltacv7vstvv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
