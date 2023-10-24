@@ -72,9 +72,9 @@ The application, in it's most basic form, will randomly choose a user every hour
 
 ### Built With
 
-- [![NodeJS][Node.com]]NodeJS
-- [![Flutter][Flutter.com]]Flutter
-- [![MongoDB][MongoDB.com]]MongoDB
+- [NodeJS](https://nodejs.org/en)
+- [Flutter](https://flutter.dev/)
+- [MongoDB](https://www.mongodb.com/)
 
 #
 
