@@ -71,7 +71,7 @@ The core concept of the application involves a unique approach to content sharin
 
 To realize this vision, I strategically chose Flutter as the primary framework. This decision was driven by my desire to gain expertise in Dart while leveraging Flutter's cross-platform capabilities. The seamless adaptability to various operating systems further enhances the application's accessibility and reach.
 
-For the back-end infrastructure, I integrated NodeJS, capitalizing on my existing proficiency in Javascript. By utilizing NodeJS, I could efficiently manage the data flow, ensuring smooth communication between the front end and the MongoDB database.
+For the back-end infrastructure, I integrated NodeJS, capitalizing on my existing proficiency in Javascript. By utilizing NodeJS, I could efficiently manage the data flow, ensuring smooth communication between the front end and the MongoDB database. In order to send the notifications I used Firebase Cloud Messaging to easily send notifications on any device.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
