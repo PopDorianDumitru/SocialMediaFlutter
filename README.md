@@ -64,9 +64,14 @@
 
 ## About The Project
 
-There are many social media applications that are currently trying to connect you to your friends and other small social bubbles, so I wanted to build one that connects you to the whole world. Every social network uses an algorithm to show it's users specific posts that will keep the user on the platform. While this is great for retention, it means most users will have a very specific feed, and they will not see things outside of their comfort zone. I want to change that.
+In response to the increasing trend of social media platforms creating echo chambers, I envisioned a social networking application that fosters global connectivity. Unlike conventional platforms that employ restrictive algorithms, my application aims to provide users with a diverse and unfiltered perspective of the world.
 
-The application, in it's most basic form, will randomly choose a user every hour and only that user can make a post, which will be sent to every other user on the platform. This way, not only is every user exposed to the world, but I am also giving a user the opportunity to say something that will be seen by everyone else.
+The core concept of the application involves a unique approach to content sharing. Specifically, the system randomly selects a user every hour, granting them the exclusive privilege to share a post visible to all users on the platform. By adopting this approach, the application not only ensures universal exposure but also empowers individuals to voice their thoughts and ideas to a global audience.
+
+
+To realize this vision, I strategically chose Flutter as the primary framework. This decision was driven by my desire to gain expertise in Dart while leveraging Flutter's cross-platform capabilities. The seamless adaptability to various operating systems further enhances the application's accessibility and reach.
+
+For the back-end infrastructure, I integrated NodeJS, capitalizing on my existing proficiency in Javascript. By utilizing NodeJS, I could efficiently manage the data flow, ensuring smooth communication between the front end and the MongoDB database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
